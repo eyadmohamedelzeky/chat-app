@@ -1,0 +1,19 @@
+{
+        "@@locale":"ar",
+        "login":"دخول",
+        "email":"البريد الالكتروني",
+        "password":"كلمة المرور",
+        "hint_email":"اكتب بريدك الالكتروني",
+        "hint_password":"اكتب كلمة المرور",
+        "donnot_have_account":"ليس لديك حساب؟",
+        "register":"سجل ",
+        "already_have_an_account":"لديك حساب؟",
+        "email_empty":"ادخل بريدك الاكترونى ",
+        "password_empty":"ادخل كلمة المرور ",
+        "forgot_password":"نسيت كلمة المرور؟",
+        "chat_app":"تطبيق الدردشة",
+        "short_password":"كلمة المرور قصيرة جدا",
+        "hint_message":"اكتب رسالتك",
+        "messages":"رسائل",
+        "reset_password":"تغيير كلمة المرور"
+}

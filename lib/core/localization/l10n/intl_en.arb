@@ -1,0 +1,20 @@
+{
+    "@@locale":"en",
+    "login":"Login",
+    "password":"Password",
+    "email":"Email",
+    "hint_email":"Enter Your Email",
+    "hint_password":"Enter Your Password",
+    "register":"Register",
+    "donnot_have_account":"Don't have an account?",
+    "already_have_account":"Already have an account?",
+    "forgot_password":"Forget Password",
+    "email_empty":"Please Enter Your Email",
+    "password_empty":"Please Enter Your Password",
+    "chat_app":"Chat App",
+    "short_password":"Password Too Short",
+    "hint_message":"Message",
+    "messages":"messages",
+    "reset_password":"Reset Password",
+    "go_back":"Go Back"
+}
